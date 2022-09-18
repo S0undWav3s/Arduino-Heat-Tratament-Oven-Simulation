@@ -128,30 +128,8 @@ detectare_2=digitalRead(senzorIR2);  // -||-
      }
  
 
-     
-
-
-
-      
-    
-
-
-  
-
-   
-      
-     
-
-   
-     
-
-  
 
 ```
-
-
-
-
 
 
 
